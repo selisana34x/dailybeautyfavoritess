@@ -1,0 +1,138 @@
+*{
+	transition: all 1s ease;
+}
+
+body
+{
+	
+}
+
+.maincontainer
+{
+	border: 0px solid red;
+	background-color: yellow;
+}
+
+.topcontainer
+{
+	border: 0px solid blue;
+	width: 900px;
+	background-color: green;
+	float: left;
+}
+
+.topleft
+{
+	border: 0px solid white;
+	background-color: orange;
+	width: 50%;
+	float: left;
+}
+
+.topright
+{
+	border: 0px solid white;
+	background-color: purple;
+	width: 50%;
+	float: left;
+}
+
+.middlecontainer
+{
+	border: 0px solid blue;
+	width: 900px;
+	
+	background-color: gray;
+	float: left;
+}
+
+.middleleft
+{
+	border: 0px solid white;
+	background-color: yellow;
+	width: 25%;
+	height: 450px;
+	float: left;
+	
+}
+
+.middlecenter
+{
+	border: 0px solid white;
+	background-color: green;
+	width: 50%;
+	height: 450px;
+	float: left;
+	
+}
+
+.middleright
+{
+	border: 0px solid white;
+	background-color: pink;
+	width: 25%;
+	height: 450px;
+	float: left;
+}
+
+
+/* RESPONSIVE LAYOUT */
+
+@media screen and (max-width: 860px){
+	.topcontainer, .middlecontainer{
+		width: 800px;
+	}
+}
+
+@media screen and (max-width: 760px){
+	.topcontainer, .middlecontainer{
+		width: 700px;
+	}
+}
+
+@media screen and (max-width: 660px){
+	.topcontainer, .middlecontainer{
+		width: 600px;
+	}
+}
+
+@media screen and (max-width: 560px){
+	.topcontainer, .middlecontainer{
+		width: 500px;
+		text-align: center;
+	}
+	.topleft{
+		float: none;
+		width: 100%;
+		height: 100px;
+	}
+	.topright{
+		float: none;
+		width: 100%;
+		height: 100px;
+	}
+
+	.middleleft{
+		float: none;
+		width: 100%;
+		height: 100px;
+	}
+
+	.middlecenter{
+		float: none;
+		width: 100%;
+		height: 500px;
+	}
+
+	.middleright{
+		float: none;
+		width: 100%;
+		height: 100px;
+	}
+}
+
+@media screen and (max-width: 500px){
+	.topcontainer, .middlecontainer{
+		width: 450px;
+	}
+}
