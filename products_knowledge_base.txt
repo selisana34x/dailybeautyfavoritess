@@ -1,0 +1,284 @@
+================================================================================
+                    DAILY BEAUTY - PRODUCT KNOWLEDGE BASE
+                         For RAG Chatbot Reference
+================================================================================
+
+This file contains all product information for the Daily Beauty RAG Chatbot.
+The chatbot uses this data to answer customer questions about products, prices,
+ingredients, and recommendations.
+
+================================================================================
+                              PRODUCT CATALOG
+================================================================================
+
+--------------------------------------------------------------------------------
+PRODUCT 1: Glow Serum
+--------------------------------------------------------------------------------
+Category: Serum
+Price: ₱399
+Description: A brightening serum that gives your skin a radiant, healthy glow. Perfect for daily use to achieve luminous skin. Formulated with niacinamide and hyaluronic acid.
+Benefits: Brightening, Radiance, Hydration, Glow, Even skin tone
+Skin Type: All skin types
+Key Ingredients: Niacinamide, Hyaluronic Acid, Vitamin E
+How to Use: Apply 2-3 drops to clean face morning and night before moisturizer.
+Size: 30ml
+Stock: 8 
+--------------------------------------------------------------------------------
+PRODUCT 2: Radiance Cream
+--------------------------------------------------------------------------------
+Category: Moisturizer
+Price: ₱599
+Description: Rich moisturizing cream that enhances your natural radiance. Deeply nourishes and protects your skin with a lightweight, non-greasy formula.
+Benefits: Moisturizing, Radiance, Nourishment, Protection, Anti-aging
+Skin Type: Dry to Normal skin
+Key Ingredients: Shea Butter, Squalane, Ceramides, Vitamin C
+How to Use: Apply generously to face and neck after serum, morning and night.
+Size: 50ml
+Stock: 7 
+--------------------------------------------------------------------------------
+PRODUCT 3: Luminous Lipstick
+--------------------------------------------------------------------------------
+Category: Lipstick
+Price: ₱299
+Description: A stunning lipstick with a luminous finish. Long-lasting color with moisturizing benefits. Available in 8 gorgeous shades.
+Benefits: Color, Shine, Moisturizing, Long-lasting, Comfortable wear
+Skin Type: Lips
+Key Ingredients: Vitamin E, Jojoba Oil, Shea Butter
+How to Use: Apply directly to lips. Reapply as needed throughout the day.
+Available Shades: Ruby Red, Coral Sunset, Pink Blush, Nude Glow, Berry Kiss, Mauve Dream, Peach Perfect, Rose Petal
+Stock: 5 
+
+--------------------------------------------------------------------------------
+PRODUCT 4: Hydrating Face Mist
+--------------------------------------------------------------------------------
+Category: Face Mist
+Price: ₱450
+Description: Refreshing face mist that provides instant hydration. Perfect for on-the-go moisture boost and setting makeup. Infused with rose water and aloe vera.
+Benefits: Hydration, Refreshing, Cooling, Instant moisture, Makeup setting
+Skin Type: All skin types
+Key Ingredients: Rose Water, Aloe Vera, Glycerin, Green Tea Extract
+How to Use: Spray on face at arm's length. Can be used over makeup.
+Size: 100ml
+stock:4
+
+--------------------------------------------------------------------------------
+PRODUCT 5: Vitamin C Serum
+--------------------------------------------------------------------------------
+Category: Serum
+Price: ₱520
+Description: Powerful antioxidant serum with 15% Vitamin C. Brightens skin and reduces dark spots. Fights free radicals and promotes collagen production.
+Benefits: Brightening, Antioxidant, Dark spot reduction, Anti-aging, Collagen boost
+Skin Type: All skin types (patch test for sensitive skin)
+Key Ingredients: 15% L-Ascorbic Acid, Ferulic Acid, Vitamin E
+How to Use: Apply 3-4 drops to face in the morning before sunscreen. Store in cool, dark place.
+Size: 30ml
+Stock: 10
+--------------------------------------------------------------------------------
+PRODUCT 6: Matte Lipstick
+--------------------------------------------------------------------------------
+Category: Lipstick
+Price: ₱350
+Description: Smooth matte finish lipstick with intense pigment. Stays put all day without drying. Transfer-proof and kiss-proof formula.
+Benefits: Matte finish, Long-lasting, Intense color, Comfortable, Transfer-proof
+Skin Type: Lips
+Key Ingredients: Vitamin E, Castor Oil, Beeswax
+How to Use: Exfoliate lips before application. Apply in thin layers for buildable coverage.
+Available Shades: Classic Red, Dusty Rose, Terracotta, Burgundy Wine, Soft Plum, Cocoa Brown, Brick Red, Nude Matte
+Stock: 5 
+--------------------------------------------------------------------------------
+PRODUCT 7: Glow Face Mask
+--------------------------------------------------------------------------------
+Category: Face Mask
+Price: ₱399
+Description: Luxurious sheet mask for an instant glow. Perfect for weekly pampering sessions. Infused with pearl extract and hyaluronic acid.
+Benefits: Glow, Detoxifying, Nourishing, Pampering, Instant results
+Skin Type: All skin types
+Key Ingredients: Pearl Extract, Hyaluronic Acid, Collagen, Aloe Vera
+How to Use: Apply to clean face for 15-20 minutes. Pat remaining essence into skin.
+Pack: Contains 5 masks
+Stock: 8
+--------------------------------------------------------------------------------
+PRODUCT 8: Nourishing Night Cream
+--------------------------------------------------------------------------------
+Category: Night Cream
+Price: ₱600
+Description: Rich night cream that works while you sleep. Wake up to soft, supple skin. Repairs and regenerates skin overnight with retinol and peptides.
+Benefits: Overnight repair, Nourishment, Anti-aging, Deep hydration, Cell renewal
+Skin Type: All skin types
+Key Ingredients: Retinol, Peptides, Shea Butter, Ceramides
+How to Use: Apply as the last step of nighttime skincare. Avoid eye area.
+Size: 50ml
+Stock: 8 
+--------------------------------------------------------------------------------
+PRODUCT 9: Lip Gloss Set
+--------------------------------------------------------------------------------
+Category: Lip Gloss
+Price: ₱299
+Description: Beautiful lip gloss set with 4 complementary shades. Perfect for everyday glamour. Non-sticky formula with subtle shimmer.
+Benefits: Shine, Variety, Moisturizing, Versatile, Non-sticky
+Skin Type: Lips
+Key Ingredients: Coconut Oil, Vitamin E, Jojoba Oil
+How to Use: Apply alone or over lipstick for extra shine.
+Set Includes: Clear Shimmer, Pink Candy, Peach Nectar, Berry Glaze
+Stock: 6 
+--------------------------------------------------------------------------------
+PRODUCT 10: Brightening Toner
+--------------------------------------------------------------------------------
+Category: Toner
+Price: ₱450
+Description: Gentle toner that brightens and balances skin. Prepares skin for better product absorption. Alcohol-free and suitable for sensitive skin.
+Benefits: Brightening, Balancing, Prep, Gentle, Pore minimizing
+Skin Type: All skin types including sensitive
+Key Ingredients: Witch Hazel, Niacinamide, Rice Water, Centella Asiatica
+How to Use: Apply with cotton pad or pat into skin after cleansing.
+Size: 150ml
+Stock: 7 
+--------------------------------------------------------------------------------
+PRODUCT 11: Silky Body Lotion
+--------------------------------------------------------------------------------
+Category: Body Care
+Price: ₱399
+Description: Silky smooth body lotion for all-day hydration. Leaves skin soft and subtly fragrant with floral notes. Fast-absorbing and non-greasy.
+Benefits: Hydration, Silky smooth, Fragrant, Non-greasy, Long-lasting moisture
+Skin Type: All skin types (body)
+Key Ingredients: Shea Butter, Coconut Oil, Almond Oil, Vitamin E
+How to Use: Apply generously to body after shower while skin is still damp.
+Size: 250ml
+Scent: White Flower & Vanilla
+Stock: 8 
+--------------------------------------------------------------------------------
+PRODUCT 12: Sunscreen SPF 50+
+--------------------------------------------------------------------------------
+Category: Sun Protection
+Price: ₱550
+Description: Lightweight sunscreen with broad-spectrum SPF 50+ PA++++. Protects against UVA and UVB rays. No white cast, suitable for all skin tones.
+Benefits: Sun protection, Lightweight, No white cast, Moisturizing, Makeup base
+Skin Type: All skin types
+Key Ingredients: Zinc Oxide, Titanium Dioxide, Vitamin E, Aloe Vera
+How to Use: Apply liberally 15 minutes before sun exposure. Reapply every 2 hours.
+Size: 50ml
+Stock: 10 
+--------------------------------------------------------------------------------
+PRODUCT 13: Eye Cream
+--------------------------------------------------------------------------------
+Category: Eye Care
+Price: ₱480
+Description: Nourishing eye cream that targets dark circles, puffiness, and fine lines. Gentle formula safe for the delicate eye area.
+Benefits: Dark circle reduction, Anti-puffiness, Anti-wrinkle, Hydrating, Firming
+Skin Type: Delicate eye area
+Key Ingredients: Caffeine, Peptides, Vitamin K, Hyaluronic Acid
+How to Use: Gently pat around eye area morning and night using ring finger.
+Size: 15ml
+Stock: 5 
+--------------------------------------------------------------------------------
+PRODUCT 14: Cleansing Balm
+--------------------------------------------------------------------------------
+Category: Cleanser
+Price: ₱520
+Description: Luxurious cleansing balm that melts away makeup and impurities. Transforms from balm to oil to milk. Leaves skin clean without stripping.
+Benefits: Deep cleansing, Makeup removal, Gentle, Nourishing, Non-stripping
+Skin Type: All skin types
+Key Ingredients: Shea Butter, Grape Seed Oil, Chamomile Extract, Vitamin E
+How to Use: Massage onto dry face, add water to emulsify, rinse thoroughly.
+Size: 100ml
+Stock: 5 
+--------------------------------------------------------------------------------
+PRODUCT 15: Exfoliating Scrub
+--------------------------------------------------------------------------------
+Category: Exfoliant
+Price: ₱380
+Description: Gentle physical exfoliant with fine sugar particles and AHA. Removes dead skin cells and reveals brighter, smoother skin.
+Benefits: Exfoliation, Brightening, Smooth texture, Unclog pores, Radiance
+Skin Type: Normal to oily skin (avoid if sensitive)
+Key Ingredients: Sugar Crystals, Glycolic Acid, Papaya Enzyme, Aloe Vera
+How to Use: Use 2-3 times per week. Massage gently in circular motions, rinse.
+Size: 75ml
+Stock: 7 
+--------------------------------------------------------------------------------
+PRODUCT 16: Hydrating Sheet Mask Set
+--------------------------------------------------------------------------------
+Category: Face Mask
+Price: ₱450
+Description: Set of 10 hydrating sheet masks with different essences. Perfect for daily hydration boost. Each mask targets specific skin concerns.
+Benefits: Intense hydration, Variety, Soothing, Nourishing, Convenience
+Skin Type: All skin types
+Key Ingredients: Hyaluronic Acid, Aloe Vera, Honey, Green Tea, Collagen
+How to Use: Apply to clean face for 15-20 minutes. Use 3-4 times per week.
+Set Includes: 2x Hyaluronic Acid, 2x Aloe Vera, 2x Honey, 2x Green Tea, 2x Collagen
+Stock: 8
+================================================================================
+                           BRAND INFORMATION
+================================================================================
+
+ABOUT DAILY BEAUTY:
+Daily Beauty is dedicated to bringing you the best beauty products that help you 
+glow every day. Our products are carefully formulated with safe, skin-friendly 
+ingredients that are dermatologist-tested and cruelty-free. We believe that 
+everyone deserves high-quality beauty, which is why our items are not only 
+effective but also extremely affordable. With Daily Beauty, you can enjoy premium 
+skincare and cosmetics without breaking the bank — trusted by thousands of happy 
+customers who love glowing confidently every day.
+
+BRAND VALUES:
+- Cruelty-Free: We never test on animals
+- Dermatologist-Tested: Safe for all skin types
+- Affordable Luxury: Premium quality at accessible prices
+- Clean Beauty: No harmful parabens, sulfates, or artificial fragrances
+- Sustainable: Eco-friendly packaging
+
+PRICE RANGES:
+- Budget-Friendly (Under ₱400): Lip products, basic skincare
+- Mid-Range (₱400 - ₱550): Serums, toners, body care
+- Premium (₱550+): Specialized treatments, night creams, sunscreen
+
+CONTACT INFORMATION:
+Reach us through the contact form on our website.
+We respond within 24-48 hours.
+
+================================================================================
+                            SKINCARE TIPS
+================================================================================
+
+1. Always apply skincare products from thinnest to thickest consistency.
+2. Don't forget sunscreen - it's the best anti-aging product!
+3. Hydration is key - drink plenty of water for glowing skin.
+4. Remove makeup before bed to let your skin breathe.
+5. Exfoliate 2-3 times a week for smoother skin.
+6. Apply eye cream with your ring finger - it's the gentlest!
+7. Sheet masks are perfect for instant hydration boosts.
+8. Layer your serums for maximum benefits.
+9. Night creams work best when applied to damp skin.
+10. Don't forget your neck and décolletage in your skincare routine!
+11. Wait 1-2 minutes between skincare steps for better absorption.
+12. Double cleanse at night to remove all traces of makeup and sunscreen.
+13. Use products with Vitamin C in the morning and Retinol at night.
+14. Store Vitamin C serums in a cool, dark place to maintain potency.
+15. Always patch test new products before full application.
+
+================================================================================
+                         ROUTINE RECOMMENDATIONS
+================================================================================
+
+MORNING ROUTINE:
+1. Cleanser (or water rinse)
+2. Toner (Brightening Toner - ₱450)
+3. Serum (Vitamin C Serum - ₱520 or Glow Serum - ₱399)
+4. Eye Cream (Eye Cream - ₱480)
+5. Moisturizer (Radiance Cream - ₱599)
+6. Sunscreen (Sunscreen SPF 50+ - ₱550)
+
+EVENING ROUTINE:
+1. Cleansing Balm (₱520) - to remove makeup
+2. Second Cleanser (optional)
+3. Toner (Brightening Toner - ₱450)
+4. Serum (Glow Serum - ₱399)
+5. Eye Cream (Eye Cream - ₱480)
+6. Night Cream (Nourishing Night Cream - ₱600)
+
+WEEKLY TREATMENTS:
+- Exfoliating Scrub (2-3x per week) - ₱380
+- Sheet Masks (3-4x per week) - Glow Face Mask ₱399 or Hydrating Set ₱450
+
+================================================================================
+                              END OF DOCUMENT
+================================================================================
