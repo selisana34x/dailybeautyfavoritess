@@ -195,41 +195,15 @@
         <p>(Add your products here)</p>
     </section>
 
-    <!-- ===== DAILY BEAUTY CHATBOT ===== -->
-    <button id="chatbotButton" onclick="toggleChatbot()">💬</button>
-
-    <div id="chatbotContainer">
-        <!-- Chat Header -->
-        <div class="chat-header">
-            <div class="chat-avatar">💄</div>
-            <div class="chat-header-info">
-                <h3>Daily Beauty Assistant</h3>
-                <p><span class="online-indicator"></span>Online • Ready to help!</p>
-            </div>
-        </div>
-
-        <!-- Chat Messages -->
-        <div id="chatMessages"></div>
-
-        <!-- Quick Actions -->
-        <div class="quick-actions">
-            <button class="quick-action-btn" onclick="askQuickQuestion('Show me all products')">📦 Products</button>
-            <button class="quick-action-btn" onclick="askQuickQuestion('What are your prices?')">💰 Prices</button>
-            <button class="quick-action-btn" onclick="askQuickQuestion('Give me a beauty tip')">💡 Tips</button>
-            <button class="quick-action-btn" onclick="askQuickQuestion('Tell me about Daily Beauty')">ℹ️ About</button>
-        </div>
-
-        <!-- Chat Input -->
-        <div class="chat-input-area">
-            <input type="text" id="chatInput" placeholder="Ask me anything about beauty..."
-                onkeypress="handleKeyPress(event)">
-            <button class="send-btn" onclick="sendMessage()">➤</button>
-        </div>
-    </div>
+    <!-- ===== FLOWISE RAG CHATBOT ===== -->
+    <script type="module">
+        import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+        Chatbot.init({
+            chatflowid: "be1ee1ca-4011-4590-87d6-d017191fb99b",
+            apiHost: "https://cloud.flowiseai.com",
+        })
+    </script>
     <!-- ===== END CHATBOT ===== -->
-
-    <!-- Chatbot JavaScript -->
-    <script src="chatbot.js"></script>
 
 </body>
 
